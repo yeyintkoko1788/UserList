@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="profile_image">
+        <item>@drawable/profile_female</item>
+        <item>@drawable/profile_female1</item>
+        <item>@drawable/profile_male</item>
+        <item>@drawable/profile_male3</item>
+    </array></resources>
